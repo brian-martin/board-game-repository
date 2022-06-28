@@ -82,3 +82,5 @@ You should be up and running if you followed all the steps.
 - Integrate unit testing, mainly for how the site will handle millions of records being stored and pulled from the database
 
 - Add validation for the rating field to only accept values 1 - 10
+
+- Add the ability to sort the games list table by column
