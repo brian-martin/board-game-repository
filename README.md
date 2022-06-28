@@ -80,3 +80,5 @@ You should be up and running if you followed all the steps.
 - Integrate some form of caching, either the database cache driver, memcache or redis
 
 - Integrate unit testing, mainly for how the site will handle millions of records being stored and pulled from the database
+
+- Add validation for the rating field to only accept values 1 - 10
